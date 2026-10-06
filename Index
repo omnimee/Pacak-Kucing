@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Aplikasi Pencatatan Pengeluaran</title>
+
+    <meta http-equiv="refresh"
+          content="0;url=https://script.google.com/macros/s/AKfycbyCTkR6n_rCAD2dvDq1vDPzhw6SvRbAn1Co5RDWBtweUG685ztvubcYTcesAZG-7zcV6Q/exec">
+
+    <script>
+        window.location.href =
+            "https://script.google.com/macros/s/AKfycbyCTkR6n_rCAD2dvDq1vDPzhw6SvRbAn1Co5RDWBtweUG685ztvubcYTcesAZG-7zcV6Q/exec";
+    </script>
+</head>
+
+<body>
+    <p>Membuka Aplikasi...</p>
+</body>
+</html>
